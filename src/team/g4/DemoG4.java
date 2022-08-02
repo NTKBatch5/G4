@@ -6,11 +6,14 @@ public class DemoG4 {
 		System.out.println("Test");
 		System.out.println("Now this is my first test...");
 		
-		System.out.println(myName("Fiodor");
+		System.out.println(myName("Fiodor")); // you misses a closed parentheses
+		
+//		Can someone in the team fix this problem?
 		
 	}
 
 	public static String myName(String str){
+		
 		return str;	
 	}
 }
