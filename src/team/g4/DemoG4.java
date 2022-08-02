@@ -10,6 +10,8 @@ public class DemoG4 {
 		
 //		Can someone in the team fix this problem?
 		
+		System.out.println("Bashira......Test");
+		
 	}
 
 	public static String myName(String str){
