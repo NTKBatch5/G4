@@ -16,6 +16,11 @@ public class DemoG4 {
 
 	public static String myName(String str){
 		
+		//test pull & push 
+		String name="Sonya";
+		System.out.println(name);
+		
+	
 		return str;	
 		
 	//Test cloning -- Fernando
