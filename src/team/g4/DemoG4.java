@@ -18,7 +18,8 @@ public class DemoG4 {
 		
 		System.out.println("bbb");
 		
-		System.out.println("Confilict");
+		System.out.println("Confillect");
+		
 	}
 
 	public static String myName(String str){
