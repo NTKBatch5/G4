@@ -12,6 +12,7 @@ public class DemoG4 {
 		
 		System.out.println("Bashira......Test");
 		
+		System.out.println("Hello");
 	}
 
 	public static String myName(String str){
@@ -31,4 +32,5 @@ public class DemoG4 {
 		System.out.println("Poya");
 		
 	}
+	
 }
