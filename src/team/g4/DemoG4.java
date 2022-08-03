@@ -19,6 +19,8 @@ public class DemoG4 {
 
 //		Can someone in the team fix this problem?
 
+		System.out.println("Bashira......Test");//		Can someone in the team fix this problem?
+
 		System.out.println("Bashira......Test");
 
 	}
@@ -26,6 +28,14 @@ public class DemoG4 {
 	public static String myName(String str) {
 
 		// test pull & push
+		String name = "Sonya";
+		System.out.println(name);
+
+		return str;
+
+		// Test cloning -- Fernando
+		
+				// test pull & push
 		String name = "Sonya";
 		System.out.println(name);
 
