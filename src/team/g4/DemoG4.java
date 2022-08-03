@@ -2,6 +2,15 @@ package team.g4;
 
 public class DemoG4 {
 
+	private String name;
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
 	public static void main(String[] args) {
 		System.out.println("Test");
 //		System.out.println("Now this is my first test...");
