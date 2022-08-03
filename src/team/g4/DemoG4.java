@@ -12,6 +12,8 @@ public class DemoG4 {
 		
 		System.out.println("Bashira......Test");
 		
+		System.out.println("Let's Go!!!!!   Bashira");
+		
 	}
 
 	public static String myName(String str){
