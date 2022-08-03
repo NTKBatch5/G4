@@ -20,13 +20,23 @@ public class DemoG4 {
 		String name="Sonya";
 		System.out.println(name);
 		
+		System.out.println("Luis pull now...");
+		
 	
 		return str;	
 		
 	//Test cloning -- Fernando
 	}
+<<<<<<< HEAD
 	
 	public static void thatsEasy() {
 		System.out.println("Take this ........ ");
+=======
+	// Test (B)
+	
+	public static void lastName(String st) {
+		System.out.println("Poya");
+		
+>>>>>>> branch 'master' of https://github.com/NTKBatch5/G4.git
 	}
 }
