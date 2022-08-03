@@ -14,7 +14,11 @@ public class DemoG4 {
 		
 		System.out.println("Hello");
 		
+		System.out.println("");
 		
+		System.out.println("bbb");
+		
+		System.out.println("Confilict");
 	}
 
 	public static String myName(String str){
