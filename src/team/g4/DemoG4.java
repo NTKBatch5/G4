@@ -25,4 +25,8 @@ public class DemoG4 {
 		
 	//Test cloning -- Fernando
 	}
+	
+	public static void thatsEasy() {
+		System.out.println("Take this ........ ");
+	}
 }
