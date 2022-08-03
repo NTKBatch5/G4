@@ -31,4 +31,7 @@ public class DemoG4 {
 		System.out.println("Poya");
 		
 	}
+	public static void firstName(String fname) {
+		System.out.println("Luis Miguel..");
+	}
 }
