@@ -4,9 +4,9 @@ public class DemoG4 {
 	
 	public static void main(String[] args) {
 		System.out.println("Test");
-		System.out.println("Now this is my first test...");
+//		System.out.println("Now this is my first test...");
 		
-//		System.out.println(myName("Fiodor")); // you misses a closed parentheses
+		System.out.println(myName("Fiodor")); // you misses a closed parentheses
 		
 //		Can someone in the team fix this problem?
 		
@@ -25,8 +25,4 @@ public class DemoG4 {
 		
 	//Test cloning -- Fernando
 	}
-	public static void lastName() {
-		System.out.println("Poya");
-	}
-	// edit in getHub (B)
 }
