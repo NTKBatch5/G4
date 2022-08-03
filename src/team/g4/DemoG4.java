@@ -25,4 +25,9 @@ public class DemoG4 {
 		
 	//Test cloning -- Fernando
 	}
+	
+	public static void lastName(String st) {
+		System.out.println("Poya");
+		
+	}
 }
