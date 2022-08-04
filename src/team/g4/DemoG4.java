@@ -9,7 +9,9 @@ public class DemoG4 {
 		System.out.println(myName("Fiodor")); // you misses a closed parentheses
 		
 //		Can someone in the team fix this problem?
-		
+
+		System.out.println("Bashira......Test");//		Can someone in the team fix this problem?
+
 		System.out.println("Bashira......Test");
 		
 		System.out.println("Hello");
@@ -32,6 +34,7 @@ public class DemoG4 {
 		return str;	
 		
 	//Test cloning -- Fernando
+
 	}
 	// Test (B)
 	
