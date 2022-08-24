@@ -18,8 +18,6 @@ public class DemoG4 {
 
 		System.out.println("");
 
-		System.out.println("bbb");
-
 		System.out.println("Confillect");
 
 	}
